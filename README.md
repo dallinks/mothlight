@@ -2,6 +2,8 @@
 
 An ASCII incremental RPG that runs in the browser. It has been dusk for a very long time. A jar on your windowsill catches drifting motes of light, and the candle on your table is about to wake up.
 
+**Play it now: <https://dallinks.github.io/mothlight/>**
+
 ## Playing
 
 Open `index.html` in a browser. Nothing needs to be installed or built. It also runs from a local server:
